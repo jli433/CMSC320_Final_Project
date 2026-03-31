@@ -2,7 +2,7 @@
 
 This project analyzes stock prices and performs inference on it.
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
