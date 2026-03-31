@@ -1,4 +1,4 @@
-# CMSC320_Final_Project
+# CMSC320 Final Project
 
 This project analyzes stock prices and performs inference on it.
 
