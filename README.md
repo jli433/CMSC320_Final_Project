@@ -1,4 +1,4 @@
-# FAANG_Stock_Prediction
+# FAANG_Monthly_Stock_Prediction
 
 This project analyzes stock prices and performs inference on it.
 
@@ -8,7 +8,7 @@ This project analyzes stock prices and performs inference on it.
 
 ```bash
 git clone https://github.com/jli433/FAANG_Monthly_Stock_Prediction.git
-cd FAANG_Stock_Prediction
+cd FAANG_Monthly_Stock_Prediction
 ```
 
 ---
