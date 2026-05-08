@@ -1,4 +1,4 @@
-# CMSC320 Final Project
+# FAANG+ Stock Prediction
 
 This project analyzes stock prices and performs inference on it.
 
