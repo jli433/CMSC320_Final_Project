@@ -7,8 +7,8 @@ This project analyzes stock prices and performs inference on it.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jli433/CMSC320_Final_Project.git
-cd CMSC320_Final_Project
+git clone https://github.com/jli433/FAANG_Monthly_Stock_Prediction.git
+cd FAANG+ Stock Prediction
 ```
 
 ---
